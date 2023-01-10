@@ -1,5 +1,6 @@
 # archsetupscript
 It's just useful for me script, that installs packages i need
+
 Contains:
 gnome
 gnome-extra
@@ -14,3 +15,4 @@ chromium
 Dependencies for PortProton
 portproton
 vlc
+zoom
